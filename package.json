@@ -20,7 +20,7 @@
     "sass": "^1.69.5",
     "swiper": "^11.0.3",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/bnanadog/personalp.git"
+    "homepage": ""
   },
   "scripts": {
     "start": "set PORT=4000 && react-scripts start",

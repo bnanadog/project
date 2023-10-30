@@ -14,7 +14,7 @@ function Header() {
     >
 
       <div id="logo">
-        <a href="#">
+        <a href="/">
           <img src={readlogo} alt="logo"
             style={{
               position: 'relative',
@@ -24,7 +24,7 @@ function Header() {
         </a>
       </div>
 
-      <a href="#" style={{ textDecorationLine: 'none', }}>
+      <a href="/Login" style={{ textDecorationLine: 'none', }}>
         <div id='register'
           style={{
             width: '120px',
